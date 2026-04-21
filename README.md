@@ -43,12 +43,12 @@ Gradient theme, interactive forms, decision banners, risk gauge, analytics dashb
 
 * **Languages & Frameworks:** Python, Pandas, NumPy, scikit‑learn, XGBoost
 
-Explainability: SHAP, Plotly
+* **Explainability:** SHAP, Plotly
 
-RAG: FAISS, LangChain, Sentence‑Transformers
+* **RAG:** FAISS, LangChain, Sentence‑Transformers
 
-UI: Streamlit, streamlit‑option‑menu, Plotly
+* **UI:** Streamlit, streamlit‑option‑menu, Plotly
 
-MLOps: MLflow, Joblib
+* **MLOps:** MLflow, Joblib
 
-LLM Integration: Ollama (Llama3 local model)
+* **LLM Integration:** Ollama (Llama3 local model)
