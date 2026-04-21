@@ -1,0 +1,12 @@
+Model: logistic
+Threshold: 0.4
+ROC-AUC: 0.7421721301649664
+
+              precision    recall  f1-score   support
+
+           0       0.97      0.52      0.67     56538
+           1       0.13      0.81      0.22      4965
+
+    accuracy                           0.54     61503
+   macro avg       0.55      0.66      0.45     61503
+weighted avg       0.90      0.54      0.64     61503

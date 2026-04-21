@@ -1,0 +1,30 @@
+# Core Python ML/DS stack
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+
+# Explainability
+shap
+
+# Retrieval / Embeddings
+faiss-cpu
+langchain
+sentence-transformers
+
+# UI / Visualization
+streamlit
+streamlit-option-menu
+plotly
+
+# MLOps
+mlflow
+requests
+
+# Local LLM integration
+ollama
+
+# Optional utilities
+matplotlib
+seaborn

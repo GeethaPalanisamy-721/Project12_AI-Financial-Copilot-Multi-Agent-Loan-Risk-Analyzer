@@ -1,0 +1,12 @@
+Model: xgboost
+Threshold: 0.4
+ROC-AUC: 0.7565502202851422
+
+              precision    recall  f1-score   support
+
+           0       0.97      0.56      0.71     56538
+           1       0.14      0.81      0.24      4965
+
+    accuracy                           0.58     61503
+   macro avg       0.55      0.68      0.47     61503
+weighted avg       0.90      0.58      0.67     61503

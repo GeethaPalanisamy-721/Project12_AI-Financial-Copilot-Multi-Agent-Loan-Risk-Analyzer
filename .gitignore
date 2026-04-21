@@ -1,0 +1,49 @@
+# ==============================
+# Python cache & logs
+# ==============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+*.egg-info/
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# ==============================
+# Project-specific folders
+# ==============================
+archive/
+data/
+models/
+
+# Explicitly ignore processed data and knowledge text
+data/processed/
+data/knowledge/financial_knowledge.txt
+
+# ==============================
+# MLflow tracking
+# ==============================
+mlruns/
+mlartifacts/
+
+# ==============================
+# Streamlit
+# ==============================
+.streamlit/
+.streamlit/config.toml
+
+# ==============================
+# OS / IDE clutter
+# ==============================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
