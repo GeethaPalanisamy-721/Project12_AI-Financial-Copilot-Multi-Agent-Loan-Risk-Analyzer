@@ -39,7 +39,7 @@ Gradient theme, interactive forms, decision banners, risk gauge, analytics dashb
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 * **Languages & Frameworks:** Python, Pandas, NumPy, scikit‑learn, XGBoost
 
@@ -55,7 +55,7 @@ Gradient theme, interactive forms, decision banners, risk gauge, analytics dashb
 
 ---
 
-#📊 Screenshots
+## 📊 Screenshots
 
 ## Loan Predictor
 <img width="1827" height="573" alt="image" src="https://github.com/user-attachments/assets/a648c0da-20e8-480a-bfaa-2a3b67489f17" />
@@ -66,25 +66,25 @@ Gradient theme, interactive forms, decision banners, risk gauge, analytics dashb
 
 ---
 
-# ⚙️ Setup & Run
+##⚙️ Setup & Run
 
-# Clone repo
+### Clone repo
 
 git clone https://github.com/yourusername/ai-financial-copilot.git
 
 cd ai-financial-copilot
 
-# Install dependencies
+### Install dependencies
 
 pip install -r requirements.txt
 
-# Run Streamlit app
+### Run Streamlit app
 
 streamlit run app.py
 
 ---
 
-# 📈 Business Impact
+## 📈 Business Impact
 
 ✅ Transparent loan risk decisions for financial institutions
 
@@ -94,7 +94,7 @@ streamlit run app.py
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```
 src/
