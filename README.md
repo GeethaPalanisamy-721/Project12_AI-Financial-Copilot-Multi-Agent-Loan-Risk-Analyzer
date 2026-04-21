@@ -57,10 +57,13 @@ Gradient theme, interactive forms, decision banners, risk gauge, analytics dashb
 
 ## 📊 Screenshots
 
-## Loan Predictor
+### Loan Predictor
+
 <img width="1827" height="573" alt="image" src="https://github.com/user-attachments/assets/a648c0da-20e8-480a-bfaa-2a3b67489f17" />
 
 <img width="1558" height="796" alt="image" src="https://github.com/user-attachments/assets/8ceea452-3eb1-40ee-a355-404365e30d6f" />
+
+### Model Analytics Dashboard
 
 <img width="1881" height="731" alt="image" src="https://github.com/user-attachments/assets/ebdd56c9-adfa-4b90-8ec6-5a74e4074c28" />
 
