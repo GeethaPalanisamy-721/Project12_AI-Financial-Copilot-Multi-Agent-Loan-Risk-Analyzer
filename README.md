@@ -54,6 +54,7 @@ Gradient theme, interactive forms, decision banners, risk gauge, analytics dashb
 * **LLM Integration:** Ollama (Llama3 local model)
 
 ---
+
 #📊 Screenshots
 
 ## Loan Predictor
@@ -62,6 +63,53 @@ Gradient theme, interactive forms, decision banners, risk gauge, analytics dashb
 <img width="1558" height="796" alt="image" src="https://github.com/user-attachments/assets/8ceea452-3eb1-40ee-a355-404365e30d6f" />
 
 <img width="1881" height="731" alt="image" src="https://github.com/user-attachments/assets/ebdd56c9-adfa-4b90-8ec6-5a74e4074c28" />
+
+---
+
+# ⚙️ Setup & Run
+
+# Clone repo
+
+git clone https://github.com/yourusername/ai-financial-copilot.git
+
+cd ai-financial-copilot
+
+# Install dependencies
+
+pip install -r requirements.txt
+
+# Run Streamlit app
+
+streamlit run app.py
+
+---
+
+# 📈 Business Impact
+
+✅ Transparent loan risk decisions for financial institutions
+
+✅ Human‑readable explanations for compliance and customer trust
+
+✅ Modular design for scalability and integration into enterprise workflows
+
+---
+
+# 📂 Project Structure
+
+```
+src/
+  agents/          # Classifier, Risk Analyzer, Decision, Explainer
+  mlops/           # MLflow tracker
+  rag/             # FAISS + embeddings
+  orchestrator.py  # Pipeline connector
+app.py             # Streamlit UI
+models/            # Trained models (ignored in .gitignore)
+data/              # Processed datasets (ignored in .gitignore)
+reports/           # SHAP plots, metrics
+```
+
+
+
 
 
 
