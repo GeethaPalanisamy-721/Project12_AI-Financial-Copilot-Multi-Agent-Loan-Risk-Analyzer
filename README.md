@@ -66,7 +66,7 @@ Gradient theme, interactive forms, decision banners, risk gauge, analytics dashb
 
 ---
 
-##⚙️ Setup & Run
+## ⚙️Setup & Run
 
 ### Clone repo
 
